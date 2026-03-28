@@ -4,17 +4,17 @@ A collaborative Markdown editor with real-time co-editing, AI proofreading inlin
 
 Features
 
-Real-time collaborative editing: multiple users with live cursors
+- Real-time collaborative editing: multiple users with live cursors
 
-AI-powered proofreading and writing assistance: GPT-5.4 and Claude Sonnet
+- AI-powered proofreading and writing assistance: GPT-5.4 and Claude Sonnet
 
-Inline comment threads: select text, comment, resolve, archive
+- Inline comment threads: select text, comment, resolve, archive
 
-GitHub integration: open, edit, commit, and push markdown files
+- GitHub integration: open, edit, commit, and push markdown files
 
-Branch management: switch, create, and track branches
+- Branch management: switch, create, and track branches
 
-Markdown preview: split-view side-by-side editing
+- Markdown preview: split-view side-by-side editing
 
 
 
