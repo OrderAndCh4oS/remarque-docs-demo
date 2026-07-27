@@ -16,6 +16,8 @@ A collaborative Markdown editor with real-time co-editing, AI proofreading app w
 
 - Markdown preview: split-view side-by-side editing
 
+- Code comparisons with diffs
+
 
 
 
