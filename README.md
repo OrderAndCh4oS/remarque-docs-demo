@@ -18,4 +18,4 @@ A collaborative Markdown editor with real-time co-editing, an AI proofreading ap
 
 ## Contributing 
 
-Just make a PR
+Just make a PR to collaborate
