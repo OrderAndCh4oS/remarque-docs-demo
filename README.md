@@ -1,6 +1,6 @@
 # Remarque
 
-A collaborative Markdown editor with real-time co-editing, more text AI proofreading app with inline comments and GitHub-native version control, It has many features that help you edit documents together with other people at the same time.
+A collaborative Markdown editor with real-time co-editing, AI proofreading app with inline comments and GitHub-native version control, It has many features that help you edit documents together with other people at the same time.
 
 ## Features
 
@@ -15,8 +15,3 @@ A collaborative Markdown editor with real-time co-editing, more text AI proofrea
 - Branch management: switch, create, and track branches
 
 - Markdown preview: split-view side-by-side editing
-
-- New line
-
-
-
